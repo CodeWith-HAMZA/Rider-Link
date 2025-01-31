@@ -15,9 +15,6 @@ RideLink is a dynamic, real-time ride-hailing app designed for both **Captains**
 - **Effortless Ride Requests** ✨  
   Easily request a ride, view estimated fares, and track your journey.
 
-- **In-App Payments** 💳  
-  Safe and secure payment system within the app.
-
 - **Instant Notifications** 📲  
   Get instant updates about ride status, estimated time of arrival, and more.
 
